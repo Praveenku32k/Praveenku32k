@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">I'M Data scientist from India.</h3>
+<h3 align="center">I'M a Data scientist from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenku32k&label=Profile%20views&color=0e75b6&style=flat" alt="praveenku32k" /> </p>
 
