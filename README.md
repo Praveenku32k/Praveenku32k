@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **No code.Ai**
+- 🔭 I’m currently working on **Chat with Pdf's**
 
-- 🌱 I’m currently learning **AIOPS**
+- 🌱 I’m currently learning ** Generative AI,Langchain and Prompt Engineering**
 
 - 💬 Ask me about **A Full Stack Data Scientist with 1+ years of experience in Data Science, Big Data, ML Ops, and Cloud Computing. Experienced in Machine Learning, Deep Learning, Text Mining, and Computer Vision. Proficient in analytics tools like Spark, AWS SageMaker, Docker, MLFlow, DVC, Github, OpenCV, SQL, PyTorch, Keras, MongoDB, Pandas, Plotly, Power BI, and languages like Python and Scala.**
 
