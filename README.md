@@ -52,6 +52,57 @@ I have diligently undertaken a range of data science courses and successfully ex
 
 ### Machine Learning and Deep Learning Projects
 
+1. Road Traffic Accidents Severity Prediction
+   - Objective:  Develop a machine learning model to predict the severity of road traffic accidents using multi-class classification algorithms.
+   - Link: https://github.com/
+  
+### Computer Vision Projects
+1. Object Detection for Traffic Vehicle Detection:
+   -  Objective: Develop an accurate object detection system for classifying various vehicle types in road traffic using the IITM-HeTra dataset, with a focus on enhancing traffic management and safety.
+   - Link: https://github.com
+  
+### Natural Language Processing Projects
+1. Semantic Search-based News Recommendation and Wikipedia Articles Question
+   - Objective: Develop an innovative Semantic Search-based News Recommendation and Wikipedia Articles Question Answering System to enable efficient exploration of news articles and accurate information retrieval.
+   - Link: https://github.com
+  
+Data Analysis
+1. Stocks and Financial Analysis Dashboard
+   - Objective: Create an interactive Tableau dashboard for analyzing historical stocks and financial data of Infosys and TCS, providing investors with insights to make informed investment decisions.
+   - Link: https://github.com/
+
+### Coursework Assignments and MSc Thesis
+1. MSc Thesis - Advancing Computational Particle Physics through Data and Deep Learning
+   - Objective: Employ data analysis, simulation, and machine learning to enhance our understanding of particle collisions at the LHC and contribute to advancements in particle physics beyond the Standard Model.
+   - Link: https://github.com/
+  
+2. Course Assignments
+   - Link: https://github.com/shirsh10mall/Deep-Learning-Course-IIT-Delhi-APL745-
+  
+   - Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
+   
+   - Classification Algorithms and Optimization Techniques: Developed Logistic Regression and explored techniques like Gradient Descent, Stochastic Gradient Descent, and Mini-batch Gradient Descent for binary and multi-class classification.
+
+   - Artificial Neural Network (ANN) for Classification: Built numpy-based ANN, performed binary/multi-class tasks on MNIST data, grasped feedforward, backpropagation, and gradient descent.
+
+   - Convolutional Neural Network (CNN) for Image Classification: Created numpy-powered CNN, trained on MNIST images, understood convolution, pooling, and fully connected layers.
+
+   - Recurrent Neural Network (RNN) for Time Series Data: Implemented basic RNN from scratch, applied on time series, and grasped sequential data handling.
+
+   - Solving Differential Equations with PINN: Used PyTorch-based PINN to solve static bar problems' differential equations under specific loads.
+
+   - Elasticity Partial Differential Equations using PINN: Applied PINN to solve elasticity-related partial differential equations for 2D planes, merging physics with neural networks.
+
+   - DeepONet Architecture for Integration Operator: Implemented DeepONet, trained to learn integration, showcasing neural network's mathematical concept mastery.
+
+  
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
