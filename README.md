@@ -77,7 +77,7 @@ Data Analysis
    - Link: https://github.com/
   
 2. Course Assignments
-   - Link: https://github.com/shirsh10mall/Deep-Learning-Course-IIT-Delhi-APL745-
+   - Link: https://github.com/
   
    - Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
    
