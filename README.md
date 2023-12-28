@@ -7,13 +7,51 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chat with Pdf's**
+# Professional Profile: 
 
-- 🌱 I’m currently learning ** Generative AI,Langchain and Prompt Engineering**
+### - - - - -  Resumes: https://github.com/ - - - - -
 
-- 💬 Ask me about **A Full Stack Data Scientist with 1+ years of experience in Data Science, Big Data, ML Ops, and Cloud Computing. Experienced in Machine Learning, Deep Learning, Text Mining, and Computer Vision. Proficient in analytics tools like Spark, AWS SageMaker, Docker, MLFlow, DVC, Github, OpenCV, SQL, PyTorch, Keras, MongoDB, Pandas, Plotly, Power BI, and languages like Python and Scala.**
+## Name: PRAVEEN KUMAR 👨‍🎓   
+   - * Data Scientist 📊 | RevealITSolutions Pvt Ltd.*
+   - * Data Scientist 📊 | SoothSayar Analytics *
+   - *Email: praveenku32k.be@gmail.com , praveenku32k@gmail.com*    |    *LinkedIn Profile: https://www.linkedin.com/in/praveen-kumar-sjbit/*             |   *Linktree Profile :   https://linktr.ee/praveenku32k.be  /*
 
-- 📫 How to reach me **praveenku32k@gmail.com**
+## Education 🎓:
+   - B.E(Computer science and Engineering) from SJB Institute of Technology,Bangalore 🏛️, 2018-2022
+   - Post Graduate in Compuatational Data Science from Case Wastern Reserve Unversity, USA 🏫, 2022-2023
+
+## Technical Skills 🛠️:
+1. Programming Languages: Python 🐍 • Elementary C++
+2. Database: MySQL. Redis
+3. Statistics 📚 
+4 Exploratary Data Analysis(EDA)🚀
+5. Machine Learning 📚: Supervised Learning • Unsupervised Learning • Model Deployment 🚀 • Model Optimization ⚙️ • Hyperparameter Tuning  • Model Interpretability (SHAP) 🧐 •Regression and Classification  🤖 • Scikit-Learn  • Classical Algorithms • Tree-Based Algorithms 🌲 • Ensemble-based Algorithms.
+6. Natural Language Processing (NLP) 📝: Recurrent Neural Network (RNN) • Hugging Face Transformers 🤗 • Text Classification • Text Generation • Text Summarization 📑 • Topic Modeling • Machine Translation 🌍 • Question Answering 💬 • NLP Data Preprocessing 🧹 • Generative AI with LLMs  • Image-Text Multi-models 🖼️📝 • Semantic Search 🔍 • Vector Database • Named Entity Extraction.
+7. Computer Vision 🖼️: Image Processing • Convolutional Neural Networks (CNN) 🧠📷 • Image Segmentation • Object Detection 🕵️ • Image Classification • Transfer Learning 🔄 • Feature Extraction • Image Semantic Search 🔍🖼️.
+8. Model Deployment Tools 🌐: Streamlit • Flask • FastAPI 🚀 • Gradio 📡 • Heroku • Docker Containerization 🐳 • Elementary HTML and CSS 🎨.
+9. Additional Skills : Time Series Forecasting ⏳📈• Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️ • Linux.
+10. Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK  • SpaCy • Gensim  • Word2Vec • GloVe .
+11. Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau • Plotly • Seaborn • Matplotlib .
+12. LLM(Large Language models)-Vicuna-7b,13b  • Alpaca  • Embedding( all-MiniLM-L6-v1,v2) • OpenAI 
+
+
+## Current Aim 🚀:
+Dedicated to Learn LLM which is future of Ai, where I can apply my skills and contribute to data-driven decision-making.
+
+## Professional Goals 🎯:
+1. To get organition which is mostly working on Data Science Projects.
+2. Future : Aspiring to secure a Data Science Management position, leveraging my technical expertise and leadership skills.
+
+## Soft Skills 💬:
+Team Player 🤝 | Collaborative 🤝 | Smart work 🤝 |
+
+
+
+# Projects 🚧:
+I have diligently undertaken a range of data science courses and successfully executed diverse projects. My journey began with foundational linear regression and simple machine learning projects, eventually progressing to creating interactive dashboards, advanced machine learning and deep learning endeavours, and foraying into intricate realms such as Computer Vision and advanced Natural Language Processing.
+
+### Machine Learning and Deep Learning Projects
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
