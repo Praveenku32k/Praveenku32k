@@ -74,7 +74,7 @@ Data Analysis
 ### Coursework Assignments 
   
 1. Course Assignments
-   - Link: https://github.com/
+   - Link: [(https://github.com/Praveenku32k/Machine_learning_complete_EDA_Projects)]
   
    - Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
    
