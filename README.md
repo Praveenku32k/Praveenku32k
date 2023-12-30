@@ -71,12 +71,9 @@ Data Analysis
    - Objective: Create an interactive Tableau dashboard for analyzing historical stocks and financial data of Infosys and TCS, providing investors with insights to make informed investment decisions.
    - Link: https://github.com/
 
-### Coursework Assignments and MSc Thesis
-1. MSc Thesis - Advancing Computational Particle Physics through Data and Deep Learning
-   - Objective: Employ data analysis, simulation, and machine learning to enhance our understanding of particle collisions at the LHC and contribute to advancements in particle physics beyond the Standard Model.
-   - Link: https://github.com/
+### Coursework Assignments 
   
-2. Course Assignments
+1. Course Assignments
    - Link: https://github.com/
   
    - Non-Linear Regression and Projectile Motion: Implemented numpy and scipy-based univariate and multivariate non-linear regression models for projectile motion prediction.
