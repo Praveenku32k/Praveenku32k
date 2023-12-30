@@ -9,7 +9,7 @@
 
 # Professional Profile: 
 
-### - - - - -  Resumes: [https://github.com/](https://github.com/Praveenku32k/Praveenku32k/blob/main/Praveen%20kumar-Resume_P.pdf) - - - - -
+### - - - - -  Resumes: [(https://github.com/Praveenku32k/Praveenku32k/blob/main/Praveen%20kumar-Resume_P.pdf)] - - - - -
 
 ## Name: PRAVEEN KUMAR 👨‍🎓   
    - * Data Scientist 📊 | RevealITSolutions Pvt Ltd.*
