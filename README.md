@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">I'M a Data scientist from India.</h3>
+<h3 align="center">I am a Data Scientist at RevealIT Solutions, Inc., where I work on Langchain and HuggingFace, two cutting-edge projects that leverage large language models (LLM) and generative AI (GenAI) to create natural language applications. I have 2+ years of experience in data science, Machine Learning,Deep Learning, Computer Vision, Natural Language Processing,big data, ML Ops, and cloud computing, and I am proficient in analytics tools like AWS SageMaker, Docker, MLFlow, Github, OpenCV, SQL, PyTorch, Keras, MongoDB, Pandas, Plotly, and Power BI.
+
+I hold a Post Graduate Program in Computational Data Science from Case Western Reserve University and a Bachelor of Engineering in Computer Science and Engineering from SJB Institute of Technology. I am passionate about machine learning, deep learning, text mining, and computer vision, and I have developed and deployed various regression, classification, and clustering algorithms using scikit-learn, TensorFlow, Keras, PyTorch, and Detectron2. I have also built chatbots using Vicuna, a model similar to ChatGPT, and performed data analysis and preprocessing using Python libraries such as Numpy, Pandas, Matplotlib, and Seaborn. I am a proactive and fast-learning data lover seeking an opportunity to work in dynamic data science, utilizing my logical and analytical skills to help the organization achieve its goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenku32k&label=Profile%20views&color=0e75b6&style=flat" alt="praveenku32k" /> </p>
 
