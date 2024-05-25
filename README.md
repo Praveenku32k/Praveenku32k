@@ -11,7 +11,7 @@ I hold a Post Graduate Program in Computational Data Science from Case Western R
 
 # Professional Profile: 
 
-### - - - - -  Resumes: [(https://github.com/Praveenku32k/Praveenku32k/blob/main/Praveen%20kumar-Resume_P.pdf)] - - - - -
+### - - - - -  Resumes: [(https://github.com/Praveenku32k/Praveenku32k/blob/main/Praveen%20kumar-Resume_New.pdf)] - - - - -
 
 ## Name: PRAVEEN KUMAR 👨‍🎓   
    - * Data Scientist 📊 | RevealITSolutions Pvt Ltd.*
