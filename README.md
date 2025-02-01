@@ -55,25 +55,14 @@ Team Player 🤝 | Collaborative 🤝 | Smart work 🤝 |
 I have diligently undertaken a range of data science courses and successfully executed diverse projects. My journey began with foundational linear regression and simple machine learning projects, eventually progressing to creating interactive dashboards, advanced machine learning and deep learning endeavours, and foraying into intricate realms such as Computer Vision and advanced Natural Language Processing.
 
 ### Machine Learning and Deep Learning Projects
-
-1. Road Traffic Accidents Severity Prediction
-   - Objective:  Develop a machine learning model to predict the severity of road traffic accidents using multi-class classification algorithms.
-   - Link: https://github.com/
-  
+### Deep Learning Projects
 ### Computer Vision Projects
-1. Object Detection for Traffic Vehicle Detection:
-   -  Objective: Develop an accurate object detection system for classifying various vehicle types in road traffic using the IITM-HeTra dataset, with a focus on enhancing traffic management and safety.
-   - Link: https://github.com
-  
-### Natural Language Processing Projects
-1. Semantic Search-based News Recommendation and Wikipedia Articles Question
-   - Objective: Develop an innovative Semantic Search-based News Recommendation and Wikipedia Articles Question Answering System to enable efficient exploration of news articles and accurate information retrieval.
-   - Link: https://github.com
-  
-Data Analysis
-1. Stocks and Financial Analysis Dashboard
-   - Objective: Create an interactive Tableau dashboard for analyzing historical stocks and financial data of Infosys and TCS, providing investors with insights to make informed investment decisions.
-   - Link: https://github.com/
+### Natural Language Processing
+### Generative AI
+### Large Language Models
+### Agentic AI
+
+
 
 ### Coursework Assignments 
   
