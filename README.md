@@ -40,7 +40,7 @@ I hold a Post Graduate Program in Computational Data Science from Case Western R
 
 
 ## Current Aim 🚀:
-Dedicated to Learn LLM which is future of Ai, where I can apply my skills and contribute to data-driven decision-making.
+Dedicated to Learn AgenticAI which is future of Ai, where I can apply my skills and contribute to data-driven decision-making.
 
 ## Professional Goals 🎯:
 1. To get organition which is mostly working on Data Science Projects.
