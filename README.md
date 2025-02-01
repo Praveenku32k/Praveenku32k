@@ -24,17 +24,19 @@ I hold a Post Graduate Program in Computational Data Science from Case Western R
 
 ## Technical Skills 🛠️:
 1. Programming Languages: Python 🐍 • Elementary C++
-2. Database: MySQL. Redis
-3. Statistics 📚 
+2. Generative AI-(Agentic AI| Langchain |Phidata| Crewai| OpenAI API | Prompt Engineering | RAG|GPT3 | Llama-7B |T5| BERT | MultiModel | Agentic-AI | Embedding Models)
+3.  Vector Database-(Redis  |  Pinecone | Chromadb  |  Faiss  |  Neo4j)
+4. Database: MySQL. Redis
+5. Statistics 📚 
 4 Exploratary Data Analysis(EDA)🚀
-5. Machine Learning 📚: Supervised Learning • Unsupervised Learning • Model Deployment 🚀 • Model Optimization ⚙️ • Hyperparameter Tuning  • Model Interpretability (SHAP) 🧐 •Regression and Classification  🤖 • Scikit-Learn  • Classical Algorithms • Tree-Based Algorithms 🌲 • Ensemble-based Algorithms.
-6. Natural Language Processing (NLP) 📝: Recurrent Neural Network (RNN) • Hugging Face Transformers 🤗 • Text Classification • Text Generation • Text Summarization 📑 • Topic Modeling • Machine Translation 🌍 • Question Answering 💬 • NLP Data Preprocessing 🧹 • Generative AI with LLMs  • Image-Text Multi-models 🖼️📝 • Semantic Search 🔍 • Vector Database • Named Entity Extraction.
-7. Computer Vision 🖼️: Image Processing • Convolutional Neural Networks (CNN) 🧠📷 • Image Segmentation • Object Detection 🕵️ • Image Classification • Transfer Learning 🔄 • Feature Extraction • Image Semantic Search 🔍🖼️.
-8. Model Deployment Tools 🌐: Streamlit • Flask • FastAPI 🚀 • Gradio 📡 • Heroku • Docker Containerization 🐳 • Elementary HTML and CSS 🎨.
-9. Additional Skills : Time Series Forecasting ⏳📈• Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️ • Linux.
-10. Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK  • SpaCy • Gensim  • Word2Vec • GloVe .
-11. Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau • Plotly • Seaborn • Matplotlib .
-12. LLM(Large Language models)-Vicuna-7b,13b  • Alpaca  • Embedding( all-MiniLM-L6-v1,v2) • OpenAI 
+6. Machine Learning 📚: Supervised Learning • Unsupervised Learning • Model Deployment 🚀 • Model Optimization ⚙️ • Hyperparameter Tuning  • Model Interpretability (SHAP) 🧐 •Regression and Classification  🤖 • Scikit-Learn  • Classical Algorithms • Tree-Based Algorithms 🌲 • Ensemble-based Algorithms.
+7. Natural Language Processing (NLP) 📝: Recurrent Neural Network (RNN) • Hugging Face Transformers 🤗 • Text Classification • Text Generation • Text Summarization 📑 • Topic Modeling • Machine Translation 🌍 • Question Answering 💬 • NLP Data Preprocessing 🧹 • Generative AI with LLMs  • Image-Text Multi-models 🖼️📝 • Semantic Search 🔍 • Vector Database • Named Entity Extraction.
+8. Computer Vision 🖼️: Image Processing • Convolutional Neural Networks (CNN) 🧠📷 • Image Segmentation • Object Detection 🕵️ • Image Classification • Transfer Learning 🔄 • Feature Extraction • Image Semantic Search 🔍🖼️.
+9. Model Deployment Tools 🌐: Streamlit • Flask • FastAPI 🚀 • Gradio 📡 • Heroku • Docker Containerization 🐳 • Elementary HTML and CSS 🎨.
+10. Additional Skills : Time Series Forecasting ⏳📈• Web Scraping (BeautifulSoup, Selenium, Requests) 🕸️ • Linux.
+11. Deep Learning Tools/Framework : NumPy • Pandas 🐼 • Scikit-Learn • TensorFlow • PyTorch • Keras • Hugging Face Transformers 🤗 • NLTK  • SpaCy • Gensim  • Word2Vec • GloVe .
+12. Data Analysis and Visualization 📊: Data Wrangling 🧹 • Tableau • Plotly • Seaborn • Matplotlib .
+13. LLM(Large Language models)-Vicuna-7b,13b  • Alpaca  • Embedding( all-MiniLM-L6-v1,v2) • OpenAI 
 
 
 ## Current Aim 🚀:
