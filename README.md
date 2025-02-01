@@ -54,20 +54,13 @@ Team Player 🤝 | Collaborative 🤝 | Smart work 🤝 |
 # Projects 🚧:
 I have diligently undertaken a range of data science courses and successfully executed diverse projects. My journey began with foundational linear regression and simple machine learning projects, eventually progressing to creating interactive dashboards, advanced machine learning and deep learning endeavours, and foraying into intricate realms such as Computer Vision and advanced Natural Language Processing.
 
-### Machine Learning and Deep Learning Projects
-[(https://github.com/Praveenku32k?tab=repositories)]
-### Deep Learning Projects
-[(https://github.com/Praveenku32k?tab=repositories)]
-### Computer Vision Projects
-[(https://github.com/Praveenku32k?tab=repositories)]
-### Natural Language Processing
-[(https://github.com/Praveenku32k?tab=repositories)]
-### Generative AI
-[(https://github.com/Praveenku32k?tab=repositories)]
-### Large Language Models
-[(https://github.com/Praveenku32k?tab=repositories)]
-### Agentic AI
-[(https://github.com/Praveenku32k?tab=repositories)]
+### Machine Learning and Deep Learning Projects [(https://github.com/Praveenku32k?tab=repositories)]
+### Deep Learning Projects [(https://github.com/Praveenku32k?tab=repositories)]
+### Computer Vision Projects [(https://github.com/Praveenku32k?tab=repositories)]
+### Natural Language Processing [(https://github.com/Praveenku32k?tab=repositories)]
+### Generative AI [(https://github.com/Praveenku32k?tab=repositories)]
+### Large Language Models [(https://github.com/Praveenku32k?tab=repositories)]
+### Agentic AI [(https://github.com/Praveenku32k?tab=repositories)]
 
 
 
